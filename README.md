@@ -1,1 +1,1 @@
-This Page is created only fro Learnin purpose.
+This Page is created only for Learning purpose.
