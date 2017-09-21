@@ -17,7 +17,7 @@ a:hover {
 body{
 	margin:0;
 	padding:0;
-	font-family: 'Verdana', sans-serif;
+	font-family:Helvetica, Arial, sans-serif;
 }
 
 .wrapper{
@@ -158,11 +158,13 @@ header {
 }
 
 .right-content-text{
-	font-size:10px;
+	font-size:11px;
 }
 
 .term-text{
 	width:316px;
+	line-height: 15px;
+	color:#777;
 }
 
 .why{
@@ -296,7 +298,7 @@ footer{
 .link-list ul li a{
 	font-size: 12px;
 	display: block;
-	margin-bottom:5px;
+	margin-bottom:8px;
 }
 .copyright{
 	color:#737373;
