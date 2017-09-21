@@ -232,6 +232,14 @@ placeholder{color:#A29999;font-size:16px;}
 	margin-left: -6px;
 }
 
+.create-page{
+	font-size: 12px;
+	color:#666;
+}
+
+.create-page a{
+	color:#365899;
+}
 .register-btn{
 	width:195px;
 	height: 40px;
@@ -284,7 +292,11 @@ footer{
 	padding:0;
 	margin:0;
 }
-
+.link-list ul li a{
+	font-size: 12px;
+	display: block;
+	margin-bottom:5px;
+}
 .copyright{
 	color:#737373;
 	font-size: 10px;
